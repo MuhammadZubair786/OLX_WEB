@@ -1,0 +1,80 @@
+.rui-SB2Uw .rui-2SwH7.rui-1JF_2 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
+@media only screen and (max-width: 540px){
+._2qVdv:last-child, ._2TRq5>span:last-child {
+    display: block;
+    visibility: visible;
+}
+}
+.rui-SB2Uw .rui-2SwH7 {
+    float: left;
+    min-height: 1px;
+    box-sizing: border-box;
+}
+@media only screen and (max-width: 540px){
+._2qVdv, ._2TRq5>span {
+    display: none;
+    visibility: hidden;
+}}
+@media only screen and (max-width: 960px){
+._2qVdv {
+    border-right: none;
+}}
+._2qVdv {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    border: 1px solid rgba(0,47,52,.2);
+    border-left: none;
+}
+user agent stylesheet
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+._27cbh {
+    list-style: none;
+    padding: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    line-height: 2;
+    color: rgba(0,47,52,.64);
+}
+.Main:hover{
+    background-color: #989DA0;
+
+}
+li i{
+    color: #56585A;
+}
+.Main .dropdown-menu li :hover{
+    background-color: #989DA0;
+    color:white;
+    height: 38px;
+}
+/* .PName{
+    color:#989DA0
+}
+.PName :hover{
+    color: black;
+} */
+.MenuList{
+border:1px solid #C0C2C3 ;
+height:38px;
+
+}
+
+
