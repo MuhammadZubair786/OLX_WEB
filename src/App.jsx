@@ -12,6 +12,7 @@ import Home from './Home'
 import About from './About'
 
 import './App.css';
+import Main_Comp from './Components/Main_Comp';
 
 function App() {
   
@@ -25,6 +26,7 @@ function App() {
     <Switch>
       <Route exact path='/' component={Home}/>
       <Route path='/about' component={About}/>
+      <Route path='/post' component={Main_Comp}/>
     </Switch>
       {/* <About/>
       <Home/> */}

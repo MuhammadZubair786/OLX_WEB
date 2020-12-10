@@ -22,7 +22,7 @@ function App() {
 
       <Slider/>
       <br/><br/>
-      <Card/>
+      <Card />
       <br/><br/>
      
       <Tryolx/>
